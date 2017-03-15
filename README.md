@@ -1,2 +1,5 @@
 # hello-world
-First repo
+
+Hello.
+
+I don't know how to program.
